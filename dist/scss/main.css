@@ -1,0 +1,258 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+ul {
+  list-style: none;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  font-size: 1.6rem;
+  line-height: 1.4;
+}
+
+.container {
+  width: 100%;
+  max-width: 140rem;
+  margin: 0 auto;
+  padding: 1.5rem;
+}
+
+.bg--primary {
+  background: #ffa700;
+}
+
+.text--primary {
+  color: #ffa700;
+}
+
+.bg--dark {
+  background: #2b2b2b;
+}
+
+.text--dark {
+  color: #2b2b2b;
+}
+
+.bg--light {
+  background: #ffffff;
+}
+
+.text--light {
+  color: #ffffff;
+}
+
+.d--flex {
+  display: flex;
+}
+
+.d--block {
+  display: block;
+}
+
+.d--inline-block {
+  display: inline-block;
+}
+
+.text--center {
+  text-align: center;
+}
+.text--center {
+  align-items: center;
+}
+
+.text--justify {
+  text-align: justify;
+}
+.text--justify {
+  align-items: justify;
+}
+
+.text--left {
+  text-align: left;
+}
+.text--left {
+  align-items: left;
+}
+
+.py--1 {
+  padding: 1 +rem 0;
+}
+
+.ml--1 {
+  margin-left: 1 +rem;
+}
+
+.py--2 {
+  padding: 2 +rem 0;
+}
+
+.ml--2 {
+  margin-left: 2 +rem;
+}
+
+.py--3 {
+  padding: 3 +rem 0;
+}
+
+.ml--3 {
+  margin-left: 3 +rem;
+}
+
+.py--4 {
+  padding: 4 +rem 0;
+}
+
+.ml--4 {
+  margin-left: 4 +rem;
+}
+
+.py--5 {
+  padding: 5 +rem 0;
+}
+
+.ml--5 {
+  margin-left: 5 +rem;
+}
+
+.py--6 {
+  padding: 6 +rem 0;
+}
+
+.ml--6 {
+  margin-left: 6 +rem;
+}
+
+.py--7 {
+  padding: 7 +rem 0;
+}
+
+.ml--7 {
+  margin-left: 7 +rem;
+}
+
+.py--8 {
+  padding: 8 +rem 0;
+}
+
+.ml--8 {
+  margin-left: 8 +rem;
+}
+
+.py--9 {
+  padding: 9 +rem 0;
+}
+
+.ml--9 {
+  margin-left: 9 +rem;
+}
+
+.py--10 {
+  padding: 10 +rem 0;
+}
+
+.ml--10 {
+  margin-left: 10 +rem;
+}
+
+.py--11 {
+  padding: 11 +rem 0;
+}
+
+.ml--11 {
+  margin-left: 11 +rem;
+}
+
+.py--12 {
+  padding: 12 +rem 0;
+}
+
+.ml--12 {
+  margin-left: 12 +rem;
+}
+
+.py--13 {
+  padding: 13 +rem 0;
+}
+
+.ml--13 {
+  margin-left: 13 +rem;
+}
+
+.py--14 {
+  padding: 14 +rem 0;
+}
+
+.ml--14 {
+  margin-left: 14 +rem;
+}
+
+.py--15 {
+  padding: 15 +rem 0;
+}
+
+.ml--15 {
+  margin-left: 15 +rem;
+}
+
+.py--16 {
+  padding: 16 +rem 0;
+}
+
+.ml--16 {
+  margin-left: 16 +rem;
+}
+
+.py--17 {
+  padding: 17 +rem 0;
+}
+
+.ml--17 {
+  margin-left: 17 +rem;
+}
+
+.py--18 {
+  padding: 18 +rem 0;
+}
+
+.ml--18 {
+  margin-left: 18 +rem;
+}
+
+.py--19 {
+  padding: 19 +rem 0;
+}
+
+.ml--19 {
+  margin-left: 19 +rem;
+}
+
+.py--20 {
+  padding: 20 +rem 0;
+}
+
+.ml--20 {
+  margin-left: 20 +rem;
+}
+
+.header .branding {
+  display: flex;
+  align-items: center;
+}
+.header .branding img {
+  width: 4rem;
+}
+.header .branding h3 {
+  color: #ffffff;
+  margin-left: 1rem;
+  font-size: 2rem;
+}
+.header .branding h3 span {
+  color: #ffa700;
+}/*# sourceMappingURL=main.css.map */
