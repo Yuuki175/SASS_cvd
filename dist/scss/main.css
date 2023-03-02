@@ -255,4 +255,7 @@ body {
 }
 .header .branding h3 span {
   color: #ffa700;
+}
+.header__nav ul li a {
+  color: #ffffff;
 }/*# sourceMappingURL=main.css.map */
